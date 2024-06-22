@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Kabir Ahmad</h1>
 <h3 align="center">Passionate Computer Scientist | Teaching Assistant @ UET Lahore | Research Intern in AI/ML at NCAI | Web Developer</h3>
+<img align="right" alt="coding" width="400px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🌱 I’m currently learning **Generative AI, Computer Vision, Django, React**
 
