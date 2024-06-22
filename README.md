@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Kabir Ahmad</h1>
 <h3 align="center">Passionate Computer Scientist | Teaching Assistant @ UET Lahore | Research Intern in AI/ML at NCAI | Web Developer</h3>
-<img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcodequotient.com%2Fblog%2Fwhy-having-a-professional-coder-matters%2F&psig=AOvVaw0eKpL4Do8ScET_qBFZrK_j&ust=1719134485765000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLC0zqbx7oYDFQAAAAAdAAAAABAE" alt="kabirahmad4" width=400px />
+<p></p><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcodequotient.com%2Fblog%2Fwhy-having-a-professional-coder-matters%2F&psig=AOvVaw0eKpL4Do8ScET_qBFZrK_j&ust=1719134485765000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLC0zqbx7oYDFQAAAAAdAAAAABAE" alt="kabirahmad4" width=400px /></p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kabirahmad4" alt="kabirahmad4" /></a> </p>
 
 - 🌱 I’m currently learning **Generative AI, Computer Vision, Django, React**
