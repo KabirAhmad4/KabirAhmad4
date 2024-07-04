@@ -8,7 +8,7 @@
 
 - 📝 I regularly write articles on [https://fukatsoft.com/](https://fukatsoft.com/)
 
-- 💬 Ask me about **Machine Learning , .NET Framework, Desktop Applications**
+- 💬 Ask me about **Machine Learning, Generative AI , .NET Framework, Desktop Applications**
 
 - 📫 How to reach me **mkabirahmad01@gmail.com**
 
